@@ -58,9 +58,10 @@
     ```bash
     pip install "gymnasium[box2d]" stable-baselines3 shimmy moviepy matplotlib pandas imageio
     ```
-2.  Запустите скрипт ноутбук
+2.  Запустите ячейку в ноутбуке
 3.  Параметры среды:
     *   `ENV_ID = "LunarLander-v3"`
     *   `SEED = 42`
 
     *   `TOTAL_TIMESTEPS = 110000`
+
